@@ -62,14 +62,14 @@
     "xml2js": "^0.4.23"
   },
   "dependencies": {
-    "commander": "^5.0.0",
+    "commander": "^12.1.0",
     "handlebars": "^4.7.6",
     "koa": "^2.11.0",
-    "koa-compress": "^4.0.1",
+    "koa-compress": "^5.1.1",
     "koa-router": "^8.0.8",
     "koa-send": "^5.0.0",
     "licia": "^1.37.0",
     "request": "^2.88.2",
-    "ws": "^7.2.3"
+    "ws": "^8.18.0"
   }
 }
